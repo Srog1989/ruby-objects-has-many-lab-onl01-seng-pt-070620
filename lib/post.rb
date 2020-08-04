@@ -16,10 +16,6 @@
   end
 
   def author_name
-    author.name
-    
-  #   if author.name != ""
-  #     elsif nil
-  # end 
+    author.name != 
   end
  end 
