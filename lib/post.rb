@@ -2,9 +2,8 @@
   attr_accessor :title, :author
  @@all = []
  
-  def initialize(title, author)
+  def initialize(title)
     @title = title
-    @author = author
     save
   end
  
