@@ -3,20 +3,19 @@
  @@all = []
  
   def initialize(title)
-  @title = title
-   save
- end
+    @title = title
+    save
+  end
  
- def save
-  @@all << self
- end
+  def save
+   @@all << self
+  end
  
- def self.all
-  @@all
-end
+  def self.all
+   @@all
+  end
 
-def author_name
-
-
-end
+  def author_name
+    
+  end
  end 
