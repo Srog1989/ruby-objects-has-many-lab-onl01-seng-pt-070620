@@ -21,9 +21,5 @@ class Author
     Post.all.count
   end 
   
-  def author_name
-  
-  end
-  
   
 end
