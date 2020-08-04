@@ -16,6 +16,6 @@
   end
 
   def author_name
-    
+    @name.self
   end
  end 
