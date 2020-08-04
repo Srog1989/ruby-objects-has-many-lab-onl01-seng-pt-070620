@@ -17,5 +17,9 @@
 
   def author_name
     self.author.name
+    
+    if author.name != ""
+      elsif nil
+    
   end
  end 
