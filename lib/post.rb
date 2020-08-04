@@ -16,7 +16,7 @@
   end
 
   def author_name
-    author.name != self
-    nil
+    author.name != 
+  
   end
  end 
