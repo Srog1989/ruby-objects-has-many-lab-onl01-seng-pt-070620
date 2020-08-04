@@ -17,7 +17,7 @@
 
   def author_name
     author.name != @name
-    return nil
+    puts nil
   
   end
  end 
