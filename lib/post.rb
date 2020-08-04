@@ -20,6 +20,6 @@
     
     if author.name != ""
       elsif nil
-    
+   end 
   end
  end 
