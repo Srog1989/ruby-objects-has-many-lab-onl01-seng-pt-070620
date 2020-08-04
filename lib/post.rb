@@ -17,7 +17,7 @@
 
   def author_name
    if author == nil
-   puts nil
+    nil
    else author.name
  end
   end
