@@ -16,7 +16,9 @@
   end
 
   def author_name
-    author.name == nil
+    author.name = nil
+    nil
+  author.name
     
   
   end
